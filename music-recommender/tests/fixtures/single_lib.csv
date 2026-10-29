@@ -1,0 +1,6 @@
+spotify_id,track_name,artist_name,album_name,catalog_track_id,danceability,energy,loudness,tempo
+ok1,Song Ok,Artist One,Album One,claimed1,0.5,0.5,-10,120
+blank1,Song Blank,Artist Two,Album Two,,0.5,0.5,-10,
+junk1,Song Junk,Artist Three,Album Three,,0.5,0.5,-10,12abc
+imp1,Song Implausible,Artist Four,Album Four,,0.5,0.5,-10,0
+ok2,Song Two,Artist Five,Album Five,,0.6,0.4,-8,110

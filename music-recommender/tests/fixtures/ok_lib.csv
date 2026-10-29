@@ -1,0 +1,4 @@
+spotify_id,track_name,artist_name,album_name,catalog_track_id,danceability,energy
+aaa,Song A,Artist One,Album Red,,0.2,0.8
+bbb,Song B,Artist Two,Album Blue,,0.7,0.3
+ccc,Song C,Artist Three,Album Green,,0.5,0.5

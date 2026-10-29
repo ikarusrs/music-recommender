@@ -1,0 +1,18 @@
+spotify_id,track_name,artist_name,album_name,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,artist_country,artist_country_name
+genlatadeba75b4fa6d75f,Lag Jaa Gale,Lata Mangeshkar,Woh Kaun Thi (1964),0.28,0.20,-14.5,0.03,0.92,0.0,0.10,0.18,78,IN,India
+genlataa443c06e74a152a,Aaja Piya Tohe Pyar Doon,Lata Mangeshkar,Baharon Ke Sapne (1967),0.42,0.35,-12.0,0.04,0.80,0.0,0.11,0.58,92,IN,India
+genlataa9f76d24f23b619,Pyar Kiya To Darna Kya,Lata Mangeshkar,Mughal-e-Azam (1960),0.55,0.55,-9.0,0.06,0.62,0.0,0.14,0.65,112,IN,India
+genlata8ad51bc12698a1b,Ajeeb Dastan Hai Yeh,Lata Mangeshkar,Dil Apna Aur Preet Parai (1960),0.40,0.30,-13.0,0.03,0.86,0.0,0.10,0.35,84,IN,India
+genlataafe6a1c357be894,Aap Ki Nazron Ne Samjha,Lata Mangeshkar,Anpadh (1962),0.33,0.26,-14.0,0.03,0.90,0.0,0.09,0.28,80,IN,India
+genlataccc64439163266c,Tere Bina Jiya Jaye Na,Lata Mangeshkar,Ghar (1978),0.36,0.30,-13.5,0.03,0.84,0.0,0.10,0.30,86,IN,India
+genlataf949906d75952fa,Chingari Koi Bhadke,Lata Mangeshkar,Amar Prem (1972),0.38,0.36,-11.5,0.04,0.76,0.0,0.12,0.26,88,IN,India
+genlata9fd55828c9dfcd2,Raina Beeti Jaye,Lata Mangeshkar,Amar Prem (1972),0.34,0.28,-14.0,0.03,0.88,0.0,0.10,0.22,76,IN,India
+genlata792d75e8babf249,Inhi Logon Ne,Lata Mangeshkar,Pakeezah (1971),0.62,0.52,-9.5,0.07,0.55,0.0,0.18,0.66,118,IN,India
+genlata9ab9b60154f9549,Chalte Chalte,Lata Mangeshkar,Pakeezah (1971),0.45,0.40,-11.0,0.04,0.72,0.0,0.13,0.44,100,IN,India
+genlata2200b63ac593dbf,Yeh Galiyan Yeh Chaubara,Lata Mangeshkar,Prem Nagar (1974),0.40,0.32,-12.5,0.03,0.82,0.0,0.10,0.25,82,IN,India
+genlata6003b3194202b2a,Satyam Shivam Sundaram,Lata Mangeshkar,Satyam Shivam Sundaram (1978),0.35,0.45,-10.5,0.04,0.70,0.0,0.16,0.58,90,IN,India
+genlata117c0311144b85e,Maye Ni Maye,Lata Mangeshkar,Hum Aapke Hain Koun (1994),0.58,0.50,-9.0,0.05,0.60,0.0,0.15,0.72,120,IN,India
+genlata34bba840f5a9da1,Jiya Jale,Lata Mangeshkar,Dil Se (1998),0.65,0.62,-8.0,0.08,0.42,0.0,0.12,0.68,128,IN,India
+genlatab134aad398a1512,Lukka Chuppi,Lata Mangeshkar,Rang De Basanti (2006),0.50,0.45,-10.0,0.05,0.66,0.0,0.14,0.52,104,IN,India
+genlatac1379cc1f7d9a88,O Paalanhaare,Lata Mangeshkar,Lagaan (2001),0.25,0.22,-15.0,0.03,0.94,0.0,0.12,0.20,70,IN,India
+genlatadabbab4ecc2269d,Tere Liye,Lata Mangeshkar,Veer-Zaara (2004),0.38,0.30,-12.0,0.03,0.85,0.0,0.09,0.35,84,IN,India

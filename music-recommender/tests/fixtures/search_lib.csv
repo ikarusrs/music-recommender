@@ -1,0 +1,10 @@
+spotify_id,track_name,artist_name,album_name,danceability,energy
+t0id,Common Song,Art0,Alb0,0.10,0.20
+t1id,Common Song,Art1,Alb1,0.11,0.21
+t2id,Common Song,Art2,Alb2,0.12,0.22
+t3id,Common Song,Art3,Alb3,0.13,0.23
+t4id,Common Song,Art4,Alb4,0.14,0.24
+t5id,Common Song,Art5,Alb5,0.15,0.25
+t6id,Common Song,Art6,Alb6,0.16,0.26
+t7id,Common Song,Art7,Alb7,0.17,0.27
+t8id,Common Song,Art8,Alb8,0.18,0.28

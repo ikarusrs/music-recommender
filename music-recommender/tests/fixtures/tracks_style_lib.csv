@@ -1,0 +1,4 @@
+id,name,artists,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo
+t1,Song One,"['Artist A', 'Artist B']",0.5,0.5,-5,0.05,0.1,0.0,0.1,0.5,120
+t2,Song Two,['Solo Artist'],0.6,0.6,-6,0.06,0.2,0.0,0.2,0.6,130
+t3,Rejected Song,['Nobody'],0,0.5,-5,0.05,0.1,0.0,0.1,0.5,120
